@@ -1,1 +1,2 @@
-# C21-Soynaz
+# collisionAlgorithm
+Algorithm to detect collision between two objects
